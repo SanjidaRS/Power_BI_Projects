@@ -217,19 +217,27 @@ This project showcases advanced data visualization and analytics using Power BI.
 
 ## Getting Started:
 **Download Power BI Desktop:** Ensure you have Power BI Desktop installed on your computer. You can download it from the Power BI official website.
+
 **Open the Project:** Download the Power_BI_Third_Project.pbix file from this repository. Open Power BI Desktop, go to File > Open, and select the downloaded .pbix file.
 
 ## Project Details
 **Data Import and Transformation:** Import data from various sources and transform it to fit analytical needs.
+
 **Custom Visualizations:** Utilize advanced and custom visuals to enhance data storytelling.
+
 **Interactive Reports:** Create interactive reports and dashboards to provide deeper insights into the data.
+
 **Advanced Analytics:** Implement advanced analytics techniques to extract meaningful insights.
 
 ## Usage
 Open the project in Power BI Desktop.
+
 Explore the data model to understand how the data is structured.
+
 Interact with the visuals to gain insights.
+
 Customize the visuals and reports according to your needs.
+
 Publish the report to Power BI Service to share with others.
 
 ## Acknowledgments
