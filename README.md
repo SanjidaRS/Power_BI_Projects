@@ -1,17 +1,20 @@
-Power BI Projects README
+#Power BI Projects README
 
-Overview:
+##Overview:
 
 This repository contains three Power BI projects showcasing various aspects of data visualization and analytics.
 
 Each project is designed to provide insights into different domains using interactive and easy-to-understand visuals.
 
 
-Projects Included:
+###Projects Included:
 
 Power BI Sales Report
+
 Power BI HR Data Analytics
+
 Power BI Advanced Visualization Project
+
 Power BI Sales Report
 
 
