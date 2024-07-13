@@ -1,7 +1,7 @@
 Power BI Projects README
 
+Overview:
 
-Overview
 This repository contains three Power BI projects showcasing various aspects of data visualization and analytics. 
 Each project is designed to provide insights into different domains using interactive and easy-to-understand visuals.
 
@@ -14,22 +14,26 @@ Power BI Advanced Visualization Project
 Power BI Sales Report
 
 
-Description
+Description:
+
 This report visualizes key sales metrics and trends, providing insights into sales performance, product analysis, and regional sales distribution.
 It helps stakeholders make data-driven decisions with interactive visualizations.
 
 
-Files
+Files:
+
 First_Report.pbix: The main Power BI report file.
 
 
-How to Use
+How to Use:
+
 Download the First_Report.pbix file.
 Open it using Power BI Desktop.
 Explore the visualizations and data insights within the report.
 
 
 Visualizations Included:
+
 Sales Performance Overview: Summary of overall sales performance including total sales, number of transactions, and average sales per transaction.
 Monthly Sales Trends: Line charts showing sales trends over time, identifying seasonal patterns and growth rates.
 Product Analysis: Bar charts and tables highlighting top-selling products and categories.
@@ -37,24 +41,31 @@ Regional Sales Distribution: Maps and heatmaps showing sales distribution across
 Customer Insights: Demographic analysis of customers to understand target audience and customer behavior.
 
 
-Data Source
+Data Source:
+
 The data used in this report is fictional and created for demonstration purposes, including sales data across various products, regions, and customer demographics.
 
 
 Key DAX Measures:
+
 Total Sales: SUM(Sales[SalesAmount])
 Average Sales per Transaction: AVERAGE(Sales[SalesAmount])
 Total Transactions: COUNTROWS(Sales)
 
 
-License
+License:
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Author
+
+Author:
+
 This report was created by Sanjida Rahman Supti. For any questions or feedback, please contact me at ssupti@uoguelph.ca.
 
-Additional Resources
+Additional Resources:
+
 Power BI Documentation
+
 DAX Guide
 
 
@@ -62,17 +73,21 @@ DAX Guide
 Power BI HR Data Analytics
 
 
-Description
+Description:
+
 This report provides detailed data analysis and visualizations for HR Data Analytics. It is structured to help users gain insights into employee records from the HR department through interactive visuals.
 
-Features
+
+Features:
+
 Interactive Dashboards: Explore data with interactive elements like slicers and filters.
 Data Trends and Patterns: Visual representation of key metrics and indicators.
 Customizable Views: Tailor the dashboards to your needs with various customization options.
 Export Options: Export data and visuals for offline use or presentations.
 
 
-Getting Started
+Getting Started:
+
 Download Power BI Desktop: If you don't have Power BI Desktop, download and install it from the official website.
 Clone the Repository: Clone this repository to your local machine using the command:
 bash
@@ -81,7 +96,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 Open the Report: Navigate to the cloned repository and open the .pbix file in Power BI Desktop.
 
 
-Usage
+Usage:
 Open the .pbix file in Power BI Desktop.
 Interact with the report by clicking on the visuals, using slicers, and exploring different pages.
 Customize the report as needed to fit your specific requirements.
